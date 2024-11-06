@@ -1,0 +1,255 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Asus ROG",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/rog-strix-scar-18-g834jyr/rog-strix-scar-18-g834jyr-01-500x500.webp",
+    "category": "Laptops",
+    "price": 1500,
+    "description": "High-performance gaming laptop with powerful GPU.",
+    "specification": [
+      "Intel i7 Processor",
+      "16GB RAM",
+      "512GB SSD",
+      "NVIDIA GTX 1660 Ti"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 2,
+    "product_name": "Ultrabook Pro",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/raider-ge68-hx-13vg/raider-ge68-hx-13vg-02-500x500.webp",
+    "category": "Laptops",
+    "price": 1200,
+    "description": "Slim and lightweight ultrabook for professionals.",
+    "specification": [
+      "Intel i5 Processor",
+      "8GB RAM",
+      "256GB SSD",
+      "Intel UHD Graphics"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 3,
+    "product_name": "LEGION",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/legion-pro-7-16irx8h/legion-pro-7-16irx8h-01-500x500.webp",
+    "category": "Laptops",
+    "price": 600,
+    "description": "Affordable laptop for everyday tasks.",
+    "specification": [
+      "AMD Ryzen 3",
+      "4GB RAM",
+      "128GB SSD",
+      "Integrated Graphics"
+    ],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": 4,
+    "product_name": "Smartphone X",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/nord-ce4-lite/nord-ce4-lite-mega-blue-228x228.webp",
+    "category": "Phones",
+    "price": 850,
+    "description": "Flagship smartphone with high-end camera and processor.",
+    "specification": [
+      "6.5-inch OLED display",
+      "128GB storage",
+      "Triple camera",
+      "5G"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 5,
+    "product_name": "Budget Smartphone",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y17s/y17s-01-228x228.webp",
+    "category": "Phones",
+    "price": 300,
+    "description": "Affordable smartphone with essential features.",
+    "specification": [
+      "6.1-inch LCD display",
+      "64GB storage",
+      "Dual camera",
+      "4G"
+    ],
+    "availability": true,
+    "rating": 4.0
+  },
+  {
+    "product_id": 6,
+    "product_name": "Smartphone Mini",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/mobile/asus/zenfone-10/zenfone-10-aurora-green-500x500.webp",
+    "category": "Phones",
+    "price": 500,
+    "description": "Compact smartphone with powerful specs.",
+    "specification": [
+      "5.8-inch OLED display",
+      "128GB storage",
+      "Dual camera",
+      "5G"
+    ],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": 7,
+    "product_name": "Bluetooth Earbuds",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/earbuds/awei/t13-pro/t13-pro-01-228x228.webp",
+    "category": "Accessories",
+    "price": 80,
+    "description": "Wireless earbuds with noise cancellation.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Noise-canceling",
+      "10-hour battery",
+      "Water-resistant"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 8,
+    "product_name": "Portable Charger",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/power-bank/joyroom/jr-t017/jr-t017-01-228x228.webp",
+    "category": "Accessories",
+    "price": 60,
+    "description": "Compact power bank for on-the-go charging.",
+    "specification": [
+      "10000mAh",
+      "USB-C and USB-A",
+      "Fast charging",
+      "LED indicator"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 9,
+    "product_name": "Wireless Charger",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Maxco-MW11-Geometry-Series-3-in-1-Magsafe-Wireless-Charger-3-6253.jpg",
+    "category": "Accessories",
+    "price": 75,
+    "description": "Qi-compatible wireless charging pad.",
+    "specification": [
+      "10W output",
+      "Anti-slip design",
+      "LED indicator",
+      "Compact size"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 10,
+    "product_name": "Smart Watch Series 7",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/smartwatch/honor/watch-4/watch-4-01-228x228.webp",
+    "category": "Smart Watches",
+    "price": 400,
+    "description": "Premium smart watch with health tracking.",
+    "specification": [
+      "Heart rate monitor",
+      "GPS",
+      "Water-resistant",
+      "7-day battery"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 11,
+    "product_name": "Smart Watch Lite",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/smart-watch/zeblaze/stratos/zeblaze-stratos-gps-smartwatch-1-228x228.jpg",
+    "category": "Smart Watches",
+    "price": 200,
+    "description": "Affordable smart watch with essential features.",
+    "specification": [
+      "Step counter",
+      "Sleep tracker",
+      "Water-resistant",
+      "5-day battery"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 12,
+    "product_name": "MacBook Pro 14",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-14-inch-silver/macbook-pro-14-inch-silver-01-500x500.webp",
+    "category": "MacBook",
+    "price": 2000,
+    "description": "High-end MacBook with M1 Pro chip.",
+    "specification": ["M1 Pro", "16GB RAM", "512GB SSD", "Retina display"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 13,
+    "product_name": "MacBook Air 13",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-228x228.webp",
+    "category": "MacBook",
+    "price": 1000,
+    "description": "Lightweight and powerful MacBook Air with M1 chip.",
+    "specification": ["M1", "8GB RAM", "256GB SSD", "Retina display"],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": 14,
+    "product_name": "MacBook Air 15",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air-2024/macbook-air-13-inch-m3-space-gray/macbook-air-13-inch-m3-space-gray-01-228x228.webp",
+    "category": "MacBook",
+    "price": 1200,
+    "description": "New 15-inch MacBook Air with a larger screen.",
+    "specification": ["M2", "8GB RAM", "512GB SSD", "Retina display"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 15,
+    "product_name": "iPhone 14 Pro",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-16-Plus---16-Black-9711.jpg",
+    "category": "iPhone",
+    "price": 1200,
+    "description": "Latest iPhone with advanced camera and display.",
+    "specification": ["6.1-inch OLED", "128GB storage", "Triple camera", "5G"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 16,
+    "product_name": "iPhone 14",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-15-Plus-(2)-(6)-5363.jpg",
+    "category": "iPhone",
+    "price": 1000,
+    "description": "The newest iPhone model with top-tier performance.",
+    "specification": ["6.1-inch OLED", "128GB storage", "Dual camera", "5G"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 17,
+    "product_name": "iPhone SE",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-11-Green-4324.jpg",
+    "category": "iPhone",
+    "price": 500,
+    "description": "Budget-friendly iPhone with classic design.",
+    "specification": ["4.7-inch Retina", "64GB storage", "Single camera", "4G"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 18,
+    "product_name": "iPhone 13",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-15-Plus-(4)-7443.jpg",
+    "category": "iPhone",
+    "price": 900,
+    "description": "The previous generation iPhone with excellent features.",
+    "specification": ["6.1-inch OLED", "128GB storage", "Dual camera", "5G"],
+    "availability": false,
+    "rating": 4.6
+  }
+]

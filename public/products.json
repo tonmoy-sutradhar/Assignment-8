@@ -92,7 +92,7 @@
       "Dual camera",
       "5G"
     ],
-    "availability": false,
+    "availability": true,
     "rating": 4.4
   },
   {
@@ -194,7 +194,7 @@
     "price": 1000,
     "description": "Lightweight and powerful MacBook Air with M1 chip.",
     "specification": ["M1", "8GB RAM", "256GB SSD", "Retina display"],
-    "availability": false,
+    "availability": true,
     "rating": 4.7
   },
   {
@@ -249,7 +249,7 @@
     "price": 900,
     "description": "The previous generation iPhone with excellent features.",
     "specification": ["6.1-inch OLED", "128GB storage", "Dual camera", "5G"],
-    "availability": false,
+    "availability": true,
     "rating": 4.6
   }
 ]

@@ -6,15 +6,14 @@ import Cart from "./../Components/Cart";
 const Dashboard = () => {
   const navigate = useNavigate();
   let location = useLocation();
-
-  useEffect(() => {
-    if (location.pathname === "/dashboard") {
-      navigate("Cart", { replace: true });
-    }
-  }, [location, navigate]);
+  // useEffect(() => {
+  //   if (location.pathname === "/dashboard") {
+  //     navigate("Cart", { replace: true });
+  //   }
+  // }, [location, navigate]);
 
   const [products, setProducts] = useState([]);
-  const [showModal, setShowModal] = useState(false); // State to control modal visibility
+  const [showModal, setShowModal] = useState(false);
 
   useEffect(() => {
     const favorites = getAllFavorites();
@@ -34,7 +33,7 @@ const Dashboard = () => {
   };
 
   // Total price
-  const totalPrice = products.reduce((acc, product) => acc + product.price, 0);
+  const totalPrice = products.reduce((x, product) => x + product.price, 0);
 
   // Handle purchase
   const handlePurchase = () => {

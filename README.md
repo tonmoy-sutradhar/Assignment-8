@@ -4,7 +4,7 @@ Gadget Haven is an e-commerce website for tech gadgets, built with React.js, lev
 
 # Live Website
 
-Visit Gadget Haven
+https://yyy-6.netlify.app/product/6
 
 # Project Requirements
 
